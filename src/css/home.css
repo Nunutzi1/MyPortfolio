@@ -91,7 +91,7 @@
 /* RESPONSIVE */
 
 /* small device */
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 500px) {
     .content-home{
         display: flex;
         flex-direction: column;
