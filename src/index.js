@@ -1,4 +1,9 @@
 import './styles.css';
+import { initProject } from './js/projects';
+import { initSkills } from './js/skills';
+
+initSkills();
+initProject();
 
 /*=============== SHOW MENU ===============*/
 const headerToggle = document.getElementById('header-toggle'),
