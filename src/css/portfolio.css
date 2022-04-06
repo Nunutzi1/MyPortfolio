@@ -110,7 +110,7 @@
     }
 
     .content-img{
-        width: 230px;
+        width: auto;
         height: 150px;
         margin-top: 1rem;
         border-radius: 10px;
