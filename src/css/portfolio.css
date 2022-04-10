@@ -105,35 +105,35 @@
 @media screen and (max-width: 390px) {
     .content-projects{
         width: 100%;
-        height: 500px;
+        height: 600px;
         grid-template-columns: 1fr;
     }
 
     .content-img{
         width: auto;
-        height: 150px;
+        height: 230px;
         margin-top: 1rem;
         border-radius: 10px;
         overflow: hidden;
         justify-self: center;
     }
 
-    .stack-panel {
+    /* .stack-panel {
         display: none;
-    }
+    } */
   }
   
   /* medium device */
   @media (min-width: 390px) and (max-width: 767px) {
     .content-projects{
         width: 100%;
-        height: 500px;
+        height: 600px;
         grid-template-columns: 1fr;
     }
 
     .content-img{
         width: auto;
-        height: 200px;
+        height: 230px;
         margin-top: 1rem;
         border-radius: 10px;
         overflow: hidden;

@@ -82,13 +82,13 @@
 @media screen and (max-width: 390px) {
     .content-certi {
         width: 100%;
-        height: 500px;
+        height: 600px;
         grid-template-columns: 1fr;
     }
 
     .content-cimg {
-        width: 230px;
-        height: 150px;
+        width: auto;
+        height: 230px;
         margin-top: 1rem;
         border-radius: 10px;
         overflow: hidden;
@@ -100,13 +100,13 @@
 @media (min-width: 390px) and (max-width: 767px) {
     .content-certi {
         width: 100%;
-        height: 500px;
+        height: 600px;
         grid-template-columns: 1fr;
     }
 
     .content-cimg {
         width: auto;
-        height: 200px;
+        height: 230px;
         margin-top: 1rem;
         border-radius: 10px;
         overflow: hidden;
