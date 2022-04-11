@@ -1,6 +1,6 @@
 export const projects = [
     {
-        "img": "assets/img/portadablackjack.png",
+        "img": "assets/img/portadablackjack.jpg",
         "tipo": "Web",
         "title": "Blackjack",
         "stack": [
